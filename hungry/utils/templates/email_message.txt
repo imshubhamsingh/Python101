@@ -1,0 +1,4 @@
+Hi {name}!
+
+{date} | total: {amount}
+Testing this email message Made by Shubham using python.
