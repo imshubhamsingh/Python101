@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4896cc3e-2d0e-46fe-a68e-666619dcff29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data-visualization/scatter-plots.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data-visualization/bar.png" afterPath="$PROJECT_DIR$/Data-visualization/bar.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data-visualization/stack-plots.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data-visualization/barchat_histogram.py" afterPath="$PROJECT_DIR$/Data-visualization/barchat_histogram.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -16,6 +14,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python101$functions.coverage" NAME="functions Coverage Results" MODIFIED="1499005185586" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/python101$stack_plots.coverage" NAME="stack-plots Coverage Results" MODIFIED="1501421362375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data-visualization" />
     <SUITE FILE_PATH="coverage/python101$demo.coverage" NAME="demo Coverage Results" MODIFIED="1501397542794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data-visualization" />
     <SUITE FILE_PATH="coverage/python101$classes.coverage" NAME="classes Coverage Results" MODIFIED="1500527847322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python101$barchat_histogram.coverage" NAME="barchat_histogram Coverage Results" MODIFIED="1501408368948" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data-visualization" />
@@ -24,7 +23,7 @@
     <SUITE FILE_PATH="coverage/python101$hungry_data__1_.coverage" NAME="hungry_data (1) Coverage Results" MODIFIED="1500910691994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/hungry/old_src/classes" />
     <SUITE FILE_PATH="coverage/python101$js_scrape.coverage" NAME="js_scrape Coverage Results" MODIFIED="1500980297564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/web-scraping" />
     <SUITE FILE_PATH="coverage/python101$email.coverage" NAME="email Coverage Results" MODIFIED="1500557691840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python101$scatter_plots.coverage" NAME="scatter-plots Coverage Results" MODIFIED="1501413172470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data-visualization" />
+    <SUITE FILE_PATH="coverage/python101$scatter_plots.coverage" NAME="scatter-plots Coverage Results" MODIFIED="1501417165184" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data-visualization" />
     <SUITE FILE_PATH="coverage/python101$html_email.coverage" NAME="html_email Coverage Results" MODIFIED="1500602967638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python101$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1500723055235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python101$tensorflow.coverage" NAME="tensorflow Coverage Results" MODIFIED="1500775783185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -67,11 +66,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="scatter-plots.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Data-visualization/scatter-plots.py">
+      <file leaf-file-name="stack-plots.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Data-visualization/stack-plots.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+            <state relative-caret-position="143">
+              <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -139,6 +138,7 @@
         <option value="$PROJECT_DIR$/Data-visualization/demo.py" />
         <option value="$PROJECT_DIR$/Data-visualization/barchat_histogram.py" />
         <option value="$PROJECT_DIR$/Data-visualization/scatter-plots.py" />
+        <option value="$PROJECT_DIR$/Data-visualization/stack-plots.py" />
       </list>
     </option>
   </component>
@@ -221,7 +221,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.scatter-plots">
+  <component name="RunManager" selected="Python.stack-plots">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -459,24 +459,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="js_scrape" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/web-scraping" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python101" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/web-scraping/js_scrape.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="scatter-plots" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -491,6 +473,24 @@
       <module name="python101" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data-visualization/scatter-plots.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="stack-plots" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data-visualization" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python101" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data-visualization/stack-plots.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -517,19 +517,19 @@
       <item index="0" class="java.lang.String" itemvalue="Python.email" />
       <item index="1" class="java.lang.String" itemvalue="Python.classes" />
       <item index="2" class="java.lang.String" itemvalue="Python.hungry_data" />
-      <item index="3" class="java.lang.String" itemvalue="Python.js_scrape" />
-      <item index="4" class="java.lang.String" itemvalue="Python.yelp_api" />
-      <item index="5" class="java.lang.String" itemvalue="Python.demo" />
-      <item index="6" class="java.lang.String" itemvalue="Python.barchat_histogram" />
-      <item index="7" class="java.lang.String" itemvalue="Python.scatter-plots" />
+      <item index="3" class="java.lang.String" itemvalue="Python.yelp_api" />
+      <item index="4" class="java.lang.String" itemvalue="Python.demo" />
+      <item index="5" class="java.lang.String" itemvalue="Python.barchat_histogram" />
+      <item index="6" class="java.lang.String" itemvalue="Python.scatter-plots" />
+      <item index="7" class="java.lang.String" itemvalue="Python.stack-plots" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.scatter-plots" />
-        <item index="1" class="java.lang.String" itemvalue="Python.barchat_histogram" />
-        <item index="2" class="java.lang.String" itemvalue="Python.demo" />
-        <item index="3" class="java.lang.String" itemvalue="Python.yelp_api" />
-        <item index="4" class="java.lang.String" itemvalue="Python.js_scrape" />
+        <item index="0" class="java.lang.String" itemvalue="Python.stack-plots" />
+        <item index="1" class="java.lang.String" itemvalue="Python.scatter-plots" />
+        <item index="2" class="java.lang.String" itemvalue="Python.barchat_histogram" />
+        <item index="3" class="java.lang.String" itemvalue="Python.demo" />
+        <item index="4" class="java.lang.String" itemvalue="Python.yelp_api" />
       </list>
     </recent_temporary>
   </component>
@@ -654,7 +654,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/String.py" />
     <entry file="file://$PROJECT_DIR$/functions.py" />
     <entry file="file://$PROJECT_DIR$/String.py" />
     <entry file="file://$PROJECT_DIR$/functions.py" />
@@ -804,6 +803,14 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data-visualization/scatter-plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data-visualization/barchat_histogram.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
@@ -814,10 +821,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Data-visualization/scatter-plots.py">
+    <entry file="file://$PROJECT_DIR$/Data-visualization/stack-plots.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
+        <state relative-caret-position="143">
+          <caret line="11" column="40" lean-forward="true" selection-start-line="11" selection-start-column="40" selection-end-line="11" selection-end-column="40" />
           <folding />
         </state>
       </provider>
