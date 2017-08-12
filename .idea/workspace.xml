@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4896cc3e-2d0e-46fe-a68e-666619dcff29" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Data-visualization/customization.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/twitter/tweet_it_up.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Data-visualization/customization.py" afterPath="$PROJECT_DIR$/Data-visualization/customization.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -29,9 +30,10 @@
     <SUITE FILE_PATH="coverage/python101$Unittests_in_test_py.coverage" NAME="Unittests in test.py Coverage Results" MODIFIED="1500723055235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python101$tensorflow.coverage" NAME="tensorflow Coverage Results" MODIFIED="1500775783185" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python101$String.coverage" NAME="String Coverage Results" MODIFIED="1499270990971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python101$customization.coverage" NAME="customization Coverage Results" MODIFIED="1501519189300" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data-visualization" />
+    <SUITE FILE_PATH="coverage/python101$customization.coverage" NAME="customization Coverage Results" MODIFIED="1502526845472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data-visualization" />
     <SUITE FILE_PATH="coverage/python101$yelp_api.coverage" NAME="yelp_api Coverage Results" MODIFIED="1501347273921" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Api" />
     <SUITE FILE_PATH="coverage/python101$loading_data.coverage" NAME="loading-data Coverage Results" MODIFIED="1501482130640" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Data-visualization" />
+    <SUITE FILE_PATH="coverage/python101$tweet_it_up.coverage" NAME="tweet_it_up Coverage Results" MODIFIED="1502533899266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/twitter" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -60,8 +62,8 @@
       <file leaf-file-name="loading-data.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data-visualization/loading-data.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="40" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+            <state relative-caret-position="289">
+              <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
@@ -69,14 +71,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="customization.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="tweet_it_up.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/twitter/tweet_it_up.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="stack-plots.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data-visualization/stack-plots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customization.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Data-visualization/customization.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="42" column="62" lean-forward="false" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+            <state relative-caret-position="-332">
+              <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="scatter-plots.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Data-visualization/scatter-plots.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -92,10 +126,10 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>&quot;</find>
       <find>date</find>
       <find>\n</find>
       <find>print</find>
+      <find>&quot;</find>
     </findStrings>
     <replaceStrings>
       <replace>'</replace>
@@ -147,6 +181,7 @@
         <option value="$PROJECT_DIR$/Data-visualization/pie.py" />
         <option value="$PROJECT_DIR$/Data-visualization/loading-data.py" />
         <option value="$PROJECT_DIR$/Data-visualization/customization.py" />
+        <option value="$PROJECT_DIR$/twitter/tweet_it_up.py" />
       </list>
     </option>
   </component>
@@ -156,7 +191,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="28" />
     <option name="width" value="1366" />
     <option name="height" value="695" />
@@ -177,8 +212,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -191,10 +224,17 @@
               <item name="python101" type="462c0819:PsiDirectoryNode" />
               <item name="Data-visualization" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="python101" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python101" type="462c0819:PsiDirectoryNode" />
+              <item name="twitter" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +269,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.customization">
+  <component name="RunManager" selected="Python.tweet_it_up">
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <node-interpreter>project</node-interpreter>
       <node-options />
@@ -485,24 +525,6 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
-    <configuration name="scatter-plots" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Data-visualization" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="python101" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Data-visualization/scatter-plots.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-    </configuration>
     <configuration name="stack-plots" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -521,23 +543,41 @@
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
     </configuration>
+    <configuration name="tweet_it_up" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/twitter" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="python101" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/twitter/tweet_it_up.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
     <list size="8">
       <item index="0" class="java.lang.String" itemvalue="Python.email" />
       <item index="1" class="java.lang.String" itemvalue="Python.classes" />
       <item index="2" class="java.lang.String" itemvalue="Python.hungry_data" />
-      <item index="3" class="java.lang.String" itemvalue="Python.scatter-plots" />
-      <item index="4" class="java.lang.String" itemvalue="Python.stack-plots" />
-      <item index="5" class="java.lang.String" itemvalue="Python.pie" />
-      <item index="6" class="java.lang.String" itemvalue="Python.loading-data" />
-      <item index="7" class="java.lang.String" itemvalue="Python.customization" />
+      <item index="3" class="java.lang.String" itemvalue="Python.stack-plots" />
+      <item index="4" class="java.lang.String" itemvalue="Python.pie" />
+      <item index="5" class="java.lang.String" itemvalue="Python.loading-data" />
+      <item index="6" class="java.lang.String" itemvalue="Python.customization" />
+      <item index="7" class="java.lang.String" itemvalue="Python.tweet_it_up" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.customization" />
-        <item index="1" class="java.lang.String" itemvalue="Python.loading-data" />
-        <item index="2" class="java.lang.String" itemvalue="Python.pie" />
-        <item index="3" class="java.lang.String" itemvalue="Python.stack-plots" />
-        <item index="4" class="java.lang.String" itemvalue="Python.scatter-plots" />
+        <item index="0" class="java.lang.String" itemvalue="Python.tweet_it_up" />
+        <item index="1" class="java.lang.String" itemvalue="Python.customization" />
+        <item index="2" class="java.lang.String" itemvalue="Python.loading-data" />
+        <item index="3" class="java.lang.String" itemvalue="Python.pie" />
+        <item index="4" class="java.lang.String" itemvalue="Python.stack-plots" />
       </list>
     </recent_temporary>
   </component>
@@ -599,14 +639,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="28" width="1366" height="695" extended-state="0" />
+    <frame x="0" y="28" width="1366" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21666667" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23106061" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50524473" sideWeight="0.5030303" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32627866" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4973545" sideWeight="0.4969697" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42328042" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -662,13 +702,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2017.1/system/python_stubs/-1247971764/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="318">
-          <caret line="283" column="7" lean-forward="true" selection-start-line="283" selection-start-column="7" selection-end-line="283" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/classes/MessageUsers/__init__.py" />
     <entry file="file://$PROJECT_DIR$/emailMail.py" />
     <entry file="file://$PROJECT_DIR$/html_email.py" />
@@ -792,20 +825,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3669">
           <caret line="2078" column="0" lean-forward="false" selection-start-line="2078" selection-start-column="0" selection-end-line="2078" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data-visualization/bar.png">
       <provider selected="true" editor-type-id="images">
         <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Data-visualization/scatter-plots.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="11" lean-forward="false" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data-visualization/barchat_histogram.py">
@@ -819,7 +844,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -831,10 +855,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Data-visualization/scatter-plots.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Data-visualization/loading-data.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="40" column="21" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="57" selection-end-column="0" />
+        <state relative-caret-position="289">
+          <caret line="21" column="41" lean-forward="false" selection-start-line="21" selection-start-column="41" selection-end-line="21" selection-end-column="41" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -843,18 +875,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Data-visualization/stack-plots.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="13" lean-forward="true" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        <state relative-caret-position="170">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Data-visualization/customization.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="42" column="62" lean-forward="false" selection-start-line="42" selection-start-column="62" selection-end-line="42" selection-end-column="62" />
+        <state relative-caret-position="-332">
+          <caret line="20" column="17" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/twitter/tweet_it_up.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="23" column="0" lean-forward="true" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
           </folding>
         </state>
       </provider>

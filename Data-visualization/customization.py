@@ -47,7 +47,7 @@ def graph_data():
 
     ax1.xaxis.label.set_color('c')
     ax1.yaxis.label.set_color('r')
-    # ax1.set_yticks([0, 25, 50, 75])
+    ax1.set_yticks([0, 250, 500, 750, 1000])
 
     for label in ax1.xaxis.get_ticklabels():
         label.set_rotation(45)
