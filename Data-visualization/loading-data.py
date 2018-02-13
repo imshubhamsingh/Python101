@@ -22,10 +22,10 @@ def graph_data():
     source_code = urllib.request.urlopen(stock_price_url).read().decode()
     stock_data = []
     split_source = source_code.split('\n')
-    for line in split_source[2:]:
+    for line in split_source[1:]:
         split_line = line.split(',')
         if len(split_line) == 7:
-            if 'values' not in line and 'labels' not in line:
+            if 'Date' not in line:
                 stock_data.append(line)
 
     # pprint.pprint(stock_data)
